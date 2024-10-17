@@ -25,9 +25,7 @@ Revenue Forecasting: Time-series models such as SARIMA, ARIMA, and LSTM were imp
 
 ## Key Results
 
-Demand Prediction: The GBT model was the most effective for demand forecasting with an RMSE of 435.066, outperforming Linear Regression and Random Forest models.
-Revenue Forecasting: The SARIMA model achieved the best performance for revenue prediction, with an RMSE of 321.350, closely followed by LSTM at 327.863.
-These models provide vital insights for optimizing bike availability, improving revenue strategies, and supporting sustainable urban transport systems in London.
+For demand prediction, the Gradient Boosted Trees (GBT) model delivered the highest accuracy, achieving an RMSE of 435.066, surpassing both Linear Regression and Random Forest models. In revenue forecasting, the SARIMA model performed the best with an RMSE of 321.350, closely followed by the LSTM model at 327.863. These predictive models offer crucial insights for optimizing bike availability, refining revenue strategies, and enhancing sustainable urban mobility in London.
 
 ## Data Source
 
